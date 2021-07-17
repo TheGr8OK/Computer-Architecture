@@ -41,7 +41,6 @@ public class project {
 		GeneralPurposeRegisters[15]=3;
 		
 		GeneralPurposeRegisters[2]=28;
-	//	System.out.println(Integer.parseInt(Integer.toBinaryString((int)GeneralPurposeRegisters[2]).substring(24)));
 
 		GeneralPurposeRegisters[3]=9;
 		for(int i=0;i<instructionsCount + 2 ;i++) {
