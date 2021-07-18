@@ -26,7 +26,6 @@ public class project {
     boolean fetcher=true;
     static boolean branching = false;
 	public static void main(String[] args) {
-	//	System.out.println(Integer.parseInt(Integer.toBinaryString(64).substring(24)));
 		readFile("Program 1.txt");
 		int instruction=0;
 		int executer=0;
